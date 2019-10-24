@@ -1,0 +1,15 @@
+{
+  "name": "tugaslasti",
+  "version": "1.0.0",
+  "description": "tugaslasti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davidpetra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg-promise": "^9.3.3"
+  }
+}
